@@ -7,7 +7,7 @@ Estudos variados com a linguagem Typescript
    - npm install -g typescript
    
 > Transpilação do arquivo fonte para seu equivalente em Javascrit:
-   - tsc <nome-do-arquivo-typescript>.ts
+   - tsc [nome-do-arquivo-typescript].ts
 
 > Lista todos os comandos do compilador:
    - tsc --all
